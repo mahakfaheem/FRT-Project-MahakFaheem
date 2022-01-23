@@ -11,12 +11,14 @@ Distraction detox
  
 ## Problem Statement
 
-In this digital era, the unhealthy lifestyle is not just about having bad eating habits or irregular routines and sleeping habits but it’s also about our responding habits to distractions, digital pop-ups, procrastination. This in the long run results in our being unproductive, stressed, and dull. Normally, humans especially, students and freshers cannot focus on what’s important due to the never-ending notifications, messages, etc., we cannot resist the instinct of curiosity to know the info that notification is triggering and hence we delay what’s important at our hands and regret later. According to the research, it is cognitive distortions that lead to academic procrastination and students tend to:
-Overestimate the deadlines
-Overestimate their motivation
-Underestimate their efforts that the activities require
-Stress in the eleventh hour
-These problems seem unimportant, and we simply ignore but in fact they got a real impact on our lives, health, and future. 
+In this digital era, the unhealthy lifestyle is not just about having bad eating habits or irregular routines and sleeping habits but it’s also about our responding habits to distractions, digital pop-ups, procrastination. This in the long run results in our being unproductive, stressed, and dull. Generally, humans especially, students cannot focus on what’s important due to the never-ending notifications, messages, etc., we cannot resist the instinct of curiosity to know the info that notification is triggering and hence we delay what’s important at our hands and regret later. According to the research, it is cognitive distortions that lead to academic procrastination and students tend to:
+
+* Overestimate the deadlines
+* Overestimate their motivation
+* Underestimate their efforts that the activities require
+* Stress in the eleventh hour
+
+These problems seem to be unimportant, and we simply ignore but in fact they got a real impact on our lives, health, and future. 
 
 ## Project Description
 
@@ -36,7 +38,8 @@ QnA maker and LUIS services are being used to make the complete conversational f
 ## Other Azure Technology 
 
 - LUIS
-- Text to speech*
+- GitHub Actions
+- Text to Speech*
 - Azure Cognitive Services* 
 
 *Proposed or expected to be used in future. 
