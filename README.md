@@ -46,3 +46,5 @@ QnA maker and LUIS services are being used to make the complete conversational f
 
 [Website](https://proud-water-09944d403.1.azurestaticapps.net/)
 
+[Project Demo Playlist](https://www.youtube.com/playlist?list=PLaZVVIxsBOL-6ae8-nsjWC304tDm6Pe1R)
+
